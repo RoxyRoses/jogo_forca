@@ -1,0 +1,4 @@
+programador
+code smell
+clean code
+ruby
